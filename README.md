@@ -1,6 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Oiiii! Sou a Cinthia 😜" /></a></p>
 
-<br />
 
 **About me**
 
